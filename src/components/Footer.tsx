@@ -17,8 +17,8 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-gray-400 mb-6">
-              India's leading franchise-based delivery network, 
-              empowering entrepreneurs and connecting communities 
+              India's leading franchise-based delivery network,
+              empowering entrepreneurs and connecting communities
               through reliable delivery services.
             </p>
             <div className="flex space-x-4">
@@ -64,19 +64,19 @@ const Footer = () => {
             <div className="space-y-4 text-gray-400">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary" />
-                <span>+91 9876543210</span>
+                <span>+91 +91 82489 73009</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-primary" />
-                <span>franchise@streetdelivery.com</span>
+                <span>admin@streetmallcommerce.com</span>
               </div>
             </div>
-            
+
             <div className="mt-6">
               <h5 className="font-semibold mb-3">Newsletter</h5>
               <div className="flex">
-                <input 
-                  type="email" 
+                <input
+                  type="email"
                   placeholder="Your email"
                   className="flex-1 px-4 py-2 bg-gray-800 border border-gray-700 rounded-l-lg focus:outline-none focus:border-primary"
                 />

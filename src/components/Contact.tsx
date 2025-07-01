@@ -16,7 +16,7 @@ const Contact = () => {
             Ready to Start Your Journey?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Connect with our franchise experts and discover how Street Delivery 
+            Connect with our franchise experts and discover how Street Delivery
             by StreetMall can transform your business aspirations into reality.
           </p>
         </div>
@@ -24,7 +24,7 @@ const Contact = () => {
         <div className="grid lg:grid-cols-2 gap-12">
           <div>
             <h3 className="text-2xl font-bold text-gray-800 mb-6">Contact Information</h3>
-            
+
             <div className="space-y-6">
               <div className="flex items-start space-x-4">
                 <div className="bg-primary p-3 rounded-lg">
@@ -32,7 +32,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Phone</h4>
-                  <p className="text-gray-600">+91 9876543210</p>
+                  <p className="text-gray-600">+91 +91 82489 73009</p>
                   <p className="text-gray-600">+91 9876543211 (Franchise Hotline)</p>
                 </div>
               </div>
@@ -43,7 +43,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800">Email</h4>
-                  <p className="text-gray-600">franchise@streetdelivery.com</p>
+                  <p className="text-gray-600">admin@streetmallcommerce.com</p>
                   <p className="text-gray-600">support@streetmall.com</p>
                 </div>
               </div>
@@ -78,7 +78,7 @@ const Contact = () => {
               <CardContent className="p-6">
                 <h4 className="font-bold text-gray-800 mb-3">Quick Response Guarantee</h4>
                 <p className="text-gray-600 mb-4">
-                  Our franchise experts will contact you within 2 hours during business hours. 
+                  Our franchise experts will contact you within 2 hours during business hours.
                   Get personalized consultation and detailed franchise information.
                 </p>
                 <Badge className="bg-primary text-black">Response within 2 hours</Badge>
@@ -89,7 +89,7 @@ const Contact = () => {
           <Card className="border-primary border-2">
             <CardContent className="p-8">
               <h3 className="text-2xl font-bold text-gray-800 mb-6">Send us a Message</h3>
-              
+
               <form className="space-y-6">
                 <div className="grid md:grid-cols-2 gap-4">
                   <div>
@@ -142,7 +142,7 @@ const Contact = () => {
                   <label className="block text-sm font-semibold text-gray-700 mb-2">
                     Message
                   </label>
-                  <Textarea 
+                  <Textarea
                     placeholder="Tell us about your business goals and any questions you have..."
                     className="border-gray-300 focus:border-primary min-h-[100px]"
                   />
